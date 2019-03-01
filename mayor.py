@@ -18,5 +18,5 @@ for i in range(0,11):
         negativos=negativos+1
 
 print("los positivos son: ",positivos)
-print("los positivos son: ",negativos)
-print("los positivos son: ",ceros)
+print("los negativos son: ",negativos)
+print("los ceros son: ",ceros)
